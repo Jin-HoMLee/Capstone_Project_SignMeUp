@@ -5,6 +5,19 @@
 This project aims to develop a machine learning model that recognizes American Sign Language (ASL) signs in videos. The model is designed to be integrated into an innovative learning app that enables users to practice ASL signs using their phone camera and receive instant feedback. This makes learning ASL more accessible, particularly for the hearing parents of deaf children who may not be familiar with ASL.
 
 
+## Team
+
+SignMeUp was built as an equal-contribution capstone project by five teammates:
+
+- [Veranda Osmani](https://github.com/vosmani36)
+- [Jin-Ho Lee](https://github.com/Jin-HoMLee)
+- [Franzi SchuBo](https://github.com/franzi105)
+- [Kira Friedrichs](https://github.com/kifrie)
+- [Ronja Weiblen](https://github.com/RonjaBZ)
+
+All five teammates contributed equally. The team's canonical repository is hosted by Vera at [vosmani36/Capstone_Project_SignMeUp](https://github.com/vosmani36/Capstone_Project_SignMeUp); this repository is one teammate's fork containing the same code.
+
+
 # Setup
 
 We started this project from scratch and required several dependencies, which we have outlined in the `requirements.txt` and `requirements_dev.txt` files. To ensure that the project runs correctly, we recommend that you set up a virtual environment before installing the dependencies.
